@@ -1,0 +1,28 @@
+name: Hans Logren
+favicon: null
+layout_spectrum: 0.5390468034893274
+typography_spectrum: 0.7884217211976647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.978750908980146
+  lightness: 0.8181933714076877
+  saturation: 0.08669539610855281
+  rhythmicContrast: 0.2264412073418498
+purpose: []
