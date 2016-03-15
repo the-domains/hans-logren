@@ -22,7 +22,7 @@ color:
     - '#020202'
     - '#f4d9c6'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.5
+  lightness: 0
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
